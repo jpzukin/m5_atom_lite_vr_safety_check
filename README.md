@@ -6,7 +6,7 @@ HMDを使ったVR中は周囲の視界と音が奪われるので、壁が近く
 
 M5StackシリーズのAtom Liteの小ささと、入出力に使えるGPIOの多さを生かせないかと作ったアイテム一号。
 
-![figure20200923](img/figure20200923.jpg)
+![figure20200923](https://github.com/jpzukin/m5_atom_lite_vr_safety_check/blob/master/img/figure20200923.JPG)
 
 # 主な部品
 
